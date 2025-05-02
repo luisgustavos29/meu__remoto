@@ -1,0 +1,1 @@
+"comado(): cria efeitos visuais de batalha"
