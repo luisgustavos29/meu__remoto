@@ -1,3 +1,3 @@
 # meu__remoto
 
-Como utilizar esse repositório
+Repositório destinado a estudos e testes.
